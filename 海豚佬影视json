@@ -59,6 +59,11 @@
               "searchable": 1,
               "quickSearch": 1,
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
+        },
+        {
+               "key":"T4-qingting",
+               "name":"🐬蜻蜓收音机",
+               "type":4,"api":"https://catbox.n13.club/t9/qingting.php"
         }
   ],
 "flags": ["NBY","FYNB","Feiyun","360zy","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","bilibili1","哔 哩","哔 哩 哔 哩"],
