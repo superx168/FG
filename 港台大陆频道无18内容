@@ -126,7 +126,10 @@ TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
 中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
 华视HD 720P,rtmp://f13h.mine.nu/sat/tv111
-中視HD 1080,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+中視HD 1080p,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+中視HD 1080p,https://stream1.freetv.fun/71452b2d800ddbab4c04d56a1a0fc217af67502c171e2cdf11afeb724ddae007.m3u8
+中視HD 720p,rtmp://f13h.mine.nu:1935/sat/tv091
+公視戲劇1080p,https://stream1.freetv.fun/04b3a7cbbc832bbba2b720c1211a49f8f0663c18021ab85200b1bd0fe0cf713e.m3u8
 台視HD 1080P,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
 台視HD 720P,rtmp://f13h.mine.nu/sat/tv071
 台视综合HD,http://iptv.4666888.xyz/iptv2A.php?id=51
@@ -166,10 +169,11 @@ DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间,http://rihou.cc:555/tv/[Pd]八度空间
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+八度空间1080p,http://rihou.cc:555/tv/[Pd]八度空间
+八度空间1080p,http://iptv.4666888.xyz/iptv2A.php?id=52
+八度空间1080p,https://cdn6.101.qzz.io/163189/8tv
+亚洲卫视1080p,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+环球电视台720p,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 澳视澳门1080p,https://cdn6.101.qzz.io/163189/asam
 澳视澳门1080p,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视Macau 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=as
