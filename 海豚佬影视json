@@ -231,6 +231,17 @@
 			"type": 4
 		},
         {
+            "key": "禁片天堂.py",
+            "name": "🐬禁片天堂｜🔞",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTE2ODE4OTc1Xw/kptt.py",
+            "order_num": 5,
+            "ext": ""
+        }
+        {
             "key": "黄色仓库|AV",
             "name": "🐬黄色仓库｜🔞",
             "type": 1,
